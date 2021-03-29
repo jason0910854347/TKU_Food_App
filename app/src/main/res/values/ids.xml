@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="food_name" type="id" />
+    <item name="food_image" type="id" />
+    <item name="recycler_food" type="id" />
+</resources>

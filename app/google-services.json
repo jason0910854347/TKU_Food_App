@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686084554238",
+    "firebase_url": "https://tamkangfoodapp-9f1ed.firebaseio.com",
+    "project_id": "tamkangfoodapp-9f1ed",
+    "storage_bucket": "tamkangfoodapp-9f1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686084554238:android:7262c0852d6299cc",
+        "android_client_info": {
+          "package_name": "com.example.lan.tku_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686084554238-bstb5nfi9m0h82etb396sfu3h130de16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lan.tku_food_app",
+            "certificate_hash": "099543bd136b33939b8fb217aa4a4e4b0f78d861"
+          }
+        },
+        {
+          "client_id": "686084554238-l7hp71lshqnhipkh476fhjqqoaa0cdik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVrc7y2iMpfE-n_XO93E_cs9BzWvkwdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686084554238-l7hp71lshqnhipkh476fhjqqoaa0cdik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
